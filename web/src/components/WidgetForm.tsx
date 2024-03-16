@@ -59,7 +59,7 @@ export function WidgetForm(){
         )
       }
       <footer className="text-xs ">
-        Feito com ♥ pela Rocketseat desenvolvido por <a className="underline underline-offset-2 outline-none hover:text-brand-hover focus:text-brand-hover" target="_blank" href="https://patrickluiz.tech">Patrick Luiz</a>
+        Design fornecido pela Rocketseat desenvolvido com ♥ por <a className="underline underline-offset-2 outline-none hover:text-brand-hover focus:text-brand-hover" target="_blank" href="https://patrickluiz.tech">Patrick Luiz</a>
       </footer>
     </div>
   )
